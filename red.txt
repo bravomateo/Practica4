@@ -1,0 +1,8 @@
+A B 31
+A C 10
+A E 22
+B C 20
+B E 10
+B F 12
+C D 4
+D E 33
